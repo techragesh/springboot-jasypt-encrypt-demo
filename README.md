@@ -50,5 +50,8 @@ usercity.name=ENC(/uhgmmZ8sdzpQTZy35+kmA==)
 
 ```
 ### Screenshots ###
+![springboot-jasypt-encrypt](springboot-jasypt-encrypt.png)
+
+![springboot-jasypt-output](springboot-jasypt-output.png)
 
 ### Happy Coding ###
